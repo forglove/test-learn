@@ -50,4 +50,5 @@ float det,s, a[3][3], b[2][3];
 	}
 	
 	return 0;
+	//GENGAI
 }
