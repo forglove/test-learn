@@ -1,4 +1,0 @@
-﻿  test.c
-F:\Microsoft Visual Studio\Project\Number_of _Digits\Number_of _Digits\test.c(6,6): warning C4101: “a”: 未引用的局部变量
-F:\Microsoft Visual Studio\Project\Number_of _Digits\Number_of _Digits\test.c(6,8): warning C4101: “b”: 未引用的局部变量
-  Number_of _Digits.vcxproj -> F:\Microsoft Visual Studio\Project\Number_of _Digits\Debug\Number_of _Digits.exe

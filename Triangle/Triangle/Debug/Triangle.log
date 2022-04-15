@@ -1,3 +1,0 @@
-﻿  test.c
-F:\Microsoft Visual Studio\Project\Triangle\Triangle\test.c(40,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-  Triangle.vcxproj -> F:\Microsoft Visual Studio\Project\Triangle\Debug\Triangle.exe
